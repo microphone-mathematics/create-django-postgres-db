@@ -1,5 +1,5 @@
 # create-django-postgres-db
-Create username, database and set roles/permissions on db for django on postgresql.
+Create username, database and roles/permissions on db for Django project with PostgreSQL.
 
 ## Usage:
 ```bash
